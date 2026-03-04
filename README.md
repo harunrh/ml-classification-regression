@@ -2,13 +2,7 @@
 
 
 
-A collection of supervised machine learning models built in Python using 
-
-scikit-learn and TensorFlow/Keras. The project is split into two tasks — 
-
-regression and classification — each comparing three different model types 
-
-on real-world datasets.
+A collection of supervised machine learning models built in Python using scikit-learn and TensorFlow/Keras. The project is split into two tasks — regression and classification — each comparing three different model types on real-world datasets.
 
 
 
@@ -20,11 +14,11 @@ on real-world datasets.
 
 
 
-\*\*Dataset:\*\* Auto MPG  
+\*\*Dataset:\*\* Auto MPG
 
-\*\*Goal:\*\* Predict a vehicle's miles per gallon (MPG) based on engine and 
 
-weight characteristics.
+
+\*\*Goal:\*\* Predict a vehicle's miles per gallon (MPG) based on engine and weight characteristics.
 
 
 
@@ -33,6 +27,8 @@ weight characteristics.
 
 
 \*\*Models:\*\*
+
+
 
 | Model | File |
 
@@ -58,15 +54,17 @@ weight characteristics.
 
 
 
-\*\*Dataset:\*\* Heart Disease  
+\*\*Dataset:\*\* Heart Disease
 
-\*\*Goal:\*\* Predict the likelihood of heart disease based on patient health 
 
-indicators.
+
+\*\*Goal:\*\* Predict the likelihood of heart disease based on patient health indicators.
 
 
 
 \*\*Models:\*\*
+
+
 
 | Model | File |
 
@@ -112,15 +110,11 @@ indicators.
 
 
 
-Install dependencies
+Install dependencies:
+
+```bash
 
 pip install pandas scikit-learn tensorflow matplotlib
 
-
-
----
-
-
-
-
+```
 
