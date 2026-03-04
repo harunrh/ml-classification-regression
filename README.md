@@ -1,58 +1,58 @@
-# \# ML Classification \& Regression
+\# ML Classification \& Regression
 
-# 
 
-# A collection of supervised machine learning models built in Python using scikit-learn and TensorFlow/Keras, covering both classification and regression tasks.
 
-# 
+A collection of supervised machine learning models built in Python using scikit-learn and TensorFlow/Keras, covering both classification and regression tasks.
 
-# \## Task 1 — Regression (Auto MPG Dataset)
 
-# 
 
-# Predicting miles per gallon (MPG) of vehicles based on features including weight, displacement, horsepower, and cylinders.
+\## Task 1 — Regression (Auto MPG Dataset)
 
-# 
 
-# Models used:
 
-# \- Linear Regression
+Predicting miles per gallon (MPG) of vehicles based on features including weight, displacement, horsepower, and cylinders.
 
-# \- Random Forest Regressor
 
-# \- Neural Network Regressor (Keras)
 
-# 
+Models used:
 
-# Metrics: Mean Squared Error (MSE), R-squared
+\- Linear Regression
 
-# 
+\- Random Forest Regressor
 
-# \## Task 2 — Classification (Heart Disease Dataset)
+\- Neural Network Regressor (Keras)
 
-# 
 
-# Predicting the likelihood of heart disease based on patient health indicators.
 
-# 
+Metrics: Mean Squared Error (MSE), R-squared
 
-# Models used:
 
-# \- Logistic Regression
 
-# \- Random Forest Classifier
+\## Task 2 — Classification (Heart Disease Dataset)
 
-# \- Neural Network Classifier (Keras)
 
-# 
 
-# Metrics: Accuracy, ROC AUC, Confusion Matrix
+Predicting the likelihood of heart disease based on patient health indicators.
 
-# 
 
-# \## Requirements
 
-# 
+Models used:
 
-# pip install pandas scikit-learn tensorflow matplotlib
+\- Logistic Regression
+
+\- Random Forest Classifier
+
+\- Neural Network Classifier (Keras)
+
+
+
+Metrics: Accuracy, ROC AUC, Confusion Matrix
+
+
+
+\## Requirements
+
+
+
+pip install pandas scikit-learn tensorflow matplotlib
 
